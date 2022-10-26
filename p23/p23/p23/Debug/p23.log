@@ -1,0 +1,9 @@
+﻿E:\Microsoft Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+e:\c_code\1027\p23\p23\p23\main.c(15): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+e:\c_code\1027\p23\p23\p23\main.c(20): warning C4102: 'case7': 未參考的標籤
+e:\c_code\1027\p23\p23\p23\main.c(21): warning C4102: 'case11': 未參考的標籤
+e:\c_code\1027\p23\p23\p23\main.c(24): warning C4102: 'case2': 未參考的標籤
+e:\c_code\1027\p23\p23\p23\main.c(25): warning C4102: 'case3': 未參考的標籤
+e:\c_code\1027\p23\p23\p23\main.c(26): warning C4102: 'case12': 未參考的標籤
+  p23.vcxproj -> E:\c_code\1027\p23\p23\p23\..\..\temp\debug\p23.exe
